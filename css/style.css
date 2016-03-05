@@ -1,0 +1,28 @@
+body {
+    background-color: lightgrey;
+  }
+
+.wrapper {
+    padding: 50px;
+    width: 33%;
+    margin: 0 auto;
+    background-color: white;
+    text-align:  center;
+  }
+    
+    
+ .header {
+    
+    text-align:  center;
+ margin: 0 auto; width:300px
+  }
+ 
+	.content {
+		border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+	}
+ .contacts {
+ 	border-top: 1px solid grey;
+    border-bottom: 1px solid grey;
+  }
+  
