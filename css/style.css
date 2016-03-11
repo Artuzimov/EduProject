@@ -1,5 +1,5 @@
-.body {
-    background-color: black;
+body {
+    background-color: gray;
   }
 
 .wrapper {
@@ -8,6 +8,8 @@
     margin: 0 auto;
     background-color: white;
     text-align:  center;
+    box-shadow: 0 0 5px 2px;
+
   }
     
     
